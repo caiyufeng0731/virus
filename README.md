@@ -1,0 +1,6 @@
+# Virus
+In this discrete simulation model, we use the Java language to carry out the object-oriented programming. The eight states of people were defined as: normal, shadow, super shadow, suspected, confirmed, isolationd, cured, and death. At the same time, for the time of infected, suspected, confirmed, isolationd, cured, and died is independent attribute configured to simulate the process with the actual world process, so the program can produce all attributes including each moment, the record, analyze and statistics for each simulation individual.
+In the model, the length of the incubation period, the time from the suspected to diagnosis, the length of isolation, the rate of population mobility, the probability of infection, and the probability of death after infection can be adjusted or fitted as the necessary parameters for simulation. Most of the time the parameters follow the normal distribution model, as well as the mean and standard deviation are defined by the parameters. The probability follows the random number model and set by the probability value. Before starting to run the program, please first configure the relevant Settings and make sure to adjust the relevant parameters.
+
+
+
